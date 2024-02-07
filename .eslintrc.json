@@ -25,7 +25,7 @@
       "error",
       {
         "vars": "all",
-        "varsIgnorePattern": "DatePicker|TableTemplate", // allow these two "unused" variables
+        "varsIgnorePattern": "DatePicker|TableTemplate|TemplateProcessor", // allow these two "unused" variables
         "args": "after-used",
         "ignoreRestSiblings": true
       }
